@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SGS",
+    "   "
+  ],
+  "key": {
+    "S": { "item": "rainforestkongra:cobra_scale" },
+    "G": { "item": "rainforestkongra:gorilla_hide" }
+  },
+  "result": { "item": "rainforestkongra:kongra_helmet" }
+}
