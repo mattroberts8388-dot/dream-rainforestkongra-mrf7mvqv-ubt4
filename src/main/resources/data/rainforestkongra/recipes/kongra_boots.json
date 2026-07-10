@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "S S",
+    "E E"
+  ],
+  "key": {
+    "S": { "item": "rainforestkongra:cobra_scale" },
+    "E": { "item": "rainforestkongra:rainforest_essence" }
+  },
+  "result": { "item": "rainforestkongra:kongra_boots" }
+}
