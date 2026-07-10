@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "rainforestkongra",
+  "version": "${version}",
+  "name": "Rainforest Ecosystem & Kongra",
+  "description": "Adds a deadly rainforest where prolonged rain drains your health, rainforest animals, the KONGRA boss, and craftable KONGRA armor to survive.",
+  "authors": ["Rainforest Modder"],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.rainforestkongra.RainforestKongraMod"],
+    "client": ["com.rainforestkongra.RainforestKongraModClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "minecraft": "~1.20.1",
+    "fabric-api": "*"
+  }
+}
